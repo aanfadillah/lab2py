@@ -1,9 +1,8 @@
-# Nama: Azhyka Rizki Ramadhan
+Nama : Aan Faddillah putra
 
-# Kelas: TI.22.A3
+Nim : 312210327
 
-# NIM: 312210287
-
+kelas : TI.22.A.3
 
 # Latihan Bahasa Pemograman menggunakan Python 
 
