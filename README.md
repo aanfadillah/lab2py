@@ -21,11 +21,11 @@ ketika kita "RUN" hasil outputnya akan berupa kata yang kita ketik.
 
 Langkah pertama kita membuat input angka yang ingin dimasukan.
 
-<img width="206" alt="Screenshot 2022-10-19 131712" src="https://user-images.githubusercontent.com/115516688/196611935-194a5c96-a58b-43c0-8723-b95424f465f2.png">
+![Screenshot (103)](https://user-images.githubusercontent.com/115763475/196870968-73d7a86b-b496-47bf-a8df-b6fca84fcf2d.png)
 
 Setelah itu gunakan command "print"
 
-<img width="221" alt="Screenshot 2022-10-19 131840" src="https://user-images.githubusercontent.com/115516688/196612006-f785e13d-1d42-46b2-b536-e7ae7e229cf4.png">
+![Screenshot (105)](https://user-images.githubusercontent.com/115763475/196871616-02b6aada-0dcc-432d-a295-f49cc1c80f05.png)
 
 Lalu masukan angka yang ingin dijumlahkan,hasilnya seperti dibawah ini:
 
