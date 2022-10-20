@@ -15,7 +15,8 @@ Pertama kita akan menjalankan perintah yang palih dasar yaitu 'print( )', untuk 
 
 ketika kita "RUN" hasil outputnya akan berupa kata yang kita ketik.
 
-<img width="654" alt="Screenshot 2022-10-19 131402" src="https://user-images.githubusercontent.com/115516688/196611418-422bc12f-06dc-4844-b3e6-984e0d2ea271.png">
+![Screenshot (102)](https://user-images.githubusercontent.com/115763475/196869893-f6b5cc1b-1286-4d85-be84-5c32e917dc34.png)
+
 
 # Latihan 2 
 
