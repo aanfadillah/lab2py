@@ -1,8 +1,8 @@
-Nama : Aan Faddillah putra
+# Nama : Aan Faddillah putra
 
-Nim : 312210327
+# Nim : 312210327
 
-kelas : TI.22.A.3
+# Kelas : TI.22.A.3
 
 # Latihan Bahasa Pemograman menggunakan Python 
 
@@ -21,7 +21,7 @@ ketika kita "RUN" hasil outputnya akan berupa kata yang kita ketik.
 
 Langkah pertama kita membuat input angka yang ingin dimasukan.
 
-![Screenshot (103)](https://user-images.githubusercontent.com/115763475/196870968-73d7a86b-b496-47bf-a8df-b6fca84fcf2d.png)
+![Screenshot (108)](https://user-images.githubusercontent.com/115763475/196874704-9a1756c9-beda-4dac-9455-cb5f9cb49e83.png)
 
 Setelah itu gunakan command "print"
 
@@ -29,22 +29,22 @@ Setelah itu gunakan command "print"
 
 Lalu masukan angka yang ingin dijumlahkan,hasilnya seperti dibawah ini:
 
-<img width="713" alt="Screenshot 2022-10-19 132111" src="https://user-images.githubusercontent.com/115516688/196612276-29dfbe95-7a3d-4e09-9f06-03e70d55835a.png">
+![Screenshot (107)](https://user-images.githubusercontent.com/115763475/196873595-ac76ab3e-d9ab-4218-afd4-e61eea00caab.png)
 
 
 # Latihan 3
 
 Python juga mempunyai fungsi 'input( )' cara penggunaannya adalah
 
-<img width="219" alt="Screenshot 2022-10-19 133546" src="https://user-images.githubusercontent.com/115516688/196614884-822fe122-42dd-489d-9202-624c93db6006.png">
+![Screenshot (103)](https://user-images.githubusercontent.com/115763475/196874028-bde02247-d356-4cb9-9773-ca379912247e.png)
 
 lalu konversi kan variable nya menjadi angka integer, dengan perintah 'int( )'
 
-![image](https://user-images.githubusercontent.com/115516820/196477440-3fd3ce5e-87bc-4769-8975-fb0438ba1745.png)
+![Screenshot (109)](https://user-images.githubusercontent.com/115763475/196875147-f18496c8-48d0-412b-b15d-2bb0a8c2f766.png)
 
 print hasil operasi kedua variable dengan string format 
 
-![image](https://user-images.githubusercontent.com/115516820/196479369-2c30fe8f-659f-4452-937b-4a48d6666170.png)
+![Screenshot (110)](https://user-images.githubusercontent.com/115763475/196875463-f7cd4fb1-9d38-4303-a0fa-1a254a0e15e0.png)
 
 format digunakan untuk menggabungkan variable ke string. operator '%' selain digunakan untuk string formatting, operator ini juga digunakan untuk menghitung operasi 'sisa bagi'
 
